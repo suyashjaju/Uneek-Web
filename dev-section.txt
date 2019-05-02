@@ -1,0 +1,125 @@
+<section class="choose-us">
+	<div class="container">
+	  <!-- Headline -->
+	  <div class="text-riht col-lg-4 col-sm-4">
+		<h3>Why choose us? <br><small>Reason why us </small> </h3> 
+	  </div> <!--/Headline -->
+	  <!-- Paragraph -->
+	  <div class="col-lg-5 col-sm-5">
+		Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a typek
+	  </div><!--/ Paragraph -->
+	  <div class="col-lg-3 col-sm-3">
+		<a href="#request" class="btn btn-chos hvr-shutter-in-horizontal">
+		   Send request 
+		</a><!--/.btn-->
+	  </div><!--/.col-md-3-->
+	</div><!--/.container-->
+</section>
+
+
+
+
+
+<!-- Start:Achieve Section 
+==================================================--> 
+<section class="achieve-section" id="achieve-section">
+    <!-- container -->
+    <div class="container">
+        <!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 -->
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+		    <!-- heading -->
+            <div class="achieve-header">
+				<h2><small>cool Achieve</small>Design.<br> Develop. <br>Deploy.</h2>
+			</div>
+			<!-- heading /- -->
+        </div>
+		<!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 /- -->
+        <!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 -->
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+            <div class="icon-lay">
+                <i class="icon_gift_alt"></i>
+            </div>
+            <h5>Web<span>Awards</span></h5>
+            <h2 class="stat-count count">245</h2>
+        </div>
+		<!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 /- -->
+        <!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 -->
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+            <div class="icon-lay">
+                <i class="icon_lightbulb_alt"></i>
+            </div>
+            <h5>Internet <span>users</span></h5>
+            <h2 class="stat-count count">294</h2>
+        </div>
+		<!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 /- -->
+        <!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 -->
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+            <div class="icon-lay">
+                <i class="icon_heart_alt"></i>
+            </div>
+            <h5>Social<span>media</span></h5>
+            <h2 class="stat-count count">329</h2>
+        </div>
+		<!-- col-lg-3 col-md-3 col-sm-6 col-xs-6 /- -->
+    </div>
+	<!-- container /- -->
+</section>
+<!-- End:Achieve Section 
+==================================================--> 
+
+
+
+
+
+<!-- Start: Impressed Section 
+==================================================--> 
+<section class="impres choose-us">
+	<div class="container">
+	  <!-- Headline -->
+	  <div class="text-riht col-lg-4 col-sm-4">
+		<h3>Impressed? <br><small>Work with us </small> </h3> 
+	  </div> <!--/Headline -->
+	  <!-- Paragraph -->
+	  <div class="col-lg-5 col-sm-5">
+		Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a typek
+	  </div><!--/ Paragraph -->
+	  <div class="col-lg-3 col-sm-3">
+		<a href="#request" class="btn btn-chos hvr-shutter-in-horizontal">
+		   Send request 
+		</a><!--/.btn-->
+	  </div><!--/.col-lg-3-->
+	</div><!--/.container-->
+</section>	  
+<!-- End: Impressed Section 
+==================================================--> 
+
+
+youtube video section
+
+
+<section id="content-section" class="content-section content-two">
+	<!-- container -->
+	<div class="container">
+		<div class="content-slider">
+			<div class="row">		
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<!-- Video Link-->
+					<iframe src="https://www.youtube.com/embed/XRgJ7kekVPg" allowfullscreen></iframe>
+				</div>
+				<!--/ col-lg-6 col-md-6 col-sm-6 col-xs-12 -->
+				 <!-- col-lg-6 col-md-6 col-sm-6 col-xs-12 -->
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 cont-left">
+					<h2>Awesome <span>Creative design.</span></h2>	
+  				
+					<p>We wrote this policy to help you understand what information we collect how we permission understand what choices you have Because we're an You also may give us permission  access information information in other services We wrote this policy to help you understand what information we collect how we use it and</p>
+					<a href="#" class="btn btn-chos hvr-shutter-in-horizontal" title="Buy Now">buy now</a>
+				</div>
+				<!-- col-lg-6 col-md-6 col-sm-6 col-xs-12 /- -->
+			</div>
+			<!--/ row -->
+		</div>
+		<!--/ content-slider -->
+	</div>
+	<!--/ container -->
+</section>
+<!-- End:Content-2  Section  
